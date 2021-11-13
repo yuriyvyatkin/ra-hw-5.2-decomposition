@@ -1,7 +1,7 @@
 import './Ads.css';
 
 // выводит рекламу, которая включает название, описание и/или картинку
-export default function News(props) {
+export default function Ads(props) {
   const { title, description, children } = props;
 
   return (

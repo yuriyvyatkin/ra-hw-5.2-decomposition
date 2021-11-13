@@ -44,7 +44,7 @@ export default function Search(props) {
       <p className="Search-advice">
         {searchAdvice}
         <span className="Search-advice__example">
-          {searchExample}
+          &nbsp;{searchExample}
         </span>
       </p>
     </div>
