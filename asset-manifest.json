@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-hw-5.2-decomposition/static/css/main.a9e21c8a.chunk.css",
+    "main.js": "/ra-hw-5.2-decomposition/static/js/main.ff1ceddc.chunk.js",
+    "main.js.map": "/ra-hw-5.2-decomposition/static/js/main.ff1ceddc.chunk.js.map",
+    "runtime-main.js": "/ra-hw-5.2-decomposition/static/js/runtime-main.fbb62aad.js",
+    "runtime-main.js.map": "/ra-hw-5.2-decomposition/static/js/runtime-main.fbb62aad.js.map",
+    "static/js/2.14836691.chunk.js": "/ra-hw-5.2-decomposition/static/js/2.14836691.chunk.js",
+    "static/js/2.14836691.chunk.js.map": "/ra-hw-5.2-decomposition/static/js/2.14836691.chunk.js.map",
+    "static/js/3.38018bd5.chunk.js": "/ra-hw-5.2-decomposition/static/js/3.38018bd5.chunk.js",
+    "static/js/3.38018bd5.chunk.js.map": "/ra-hw-5.2-decomposition/static/js/3.38018bd5.chunk.js.map",
+    "index.html": "/ra-hw-5.2-decomposition/index.html",
+    "static/css/main.a9e21c8a.chunk.css.map": "/ra-hw-5.2-decomposition/static/css/main.a9e21c8a.chunk.css.map",
+    "static/js/2.14836691.chunk.js.LICENSE.txt": "/ra-hw-5.2-decomposition/static/js/2.14836691.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbb62aad.js",
+    "static/js/2.14836691.chunk.js",
+    "static/css/main.a9e21c8a.chunk.css",
+    "static/js/main.ff1ceddc.chunk.js"
+  ]
+}
