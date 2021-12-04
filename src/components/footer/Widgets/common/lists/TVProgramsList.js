@@ -10,7 +10,7 @@ export default function TVProgramsList({ items }) {
             <span className="Widget-list__item-time">
               {time ? `${time}\u00A0\u00A0` : ''}
             </span>
-            <span className="Widget-list_item-name">
+            <span className="Widget-list__item-name">
               {name}
             </span>
             <span className="Widget-list__item-source">
